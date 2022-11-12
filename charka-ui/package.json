@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@zag-js/element-size": "^0.3.0",
+    "copy-to-clipboard": "^3.3.2",
     "framesync": "^6.1.2",
     "merge-anything": "^5.0.4",
     "react": "^18.2.0",
